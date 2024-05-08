@@ -1,0 +1,15 @@
+# clion
+.idea/
+log/*
+# vs
+.vs
+__pycache__
+utils_ds/__pycache__
+deep_sort/__pycache__
+yolov5/__pycache__
+yolov5/.github
+
+venv*
+log*
+
+
